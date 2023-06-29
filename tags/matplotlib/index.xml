@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matplotlib on Janelle Sy | Data Science</title>
+    <link>https://hugo-profile.netlify.app/tags/matplotlib/</link>
+    <description>Recent content in Matplotlib on Janelle Sy | Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hugo-profile.netlify.app/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extragalactic Research</title>
+      <link>https://hugo-profile.netlify.app/galaxy-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/galaxy-research/</guid>
+      <description>Research Motive While I was at NYU, I conducted research on galaxy classification and evolution using large datasets from the Sloan Digital Sky Survey (SDSS). I analyzed the light from 10,000 galaxies captured by the SDSS telescopes located at the Apache Point Observatory in New Mexico. To do this, I wrote a Python script to retrieve the data and measure the brightness at the center of each galaxy. This central brightness, or central flux emission, provides valuable information about the energy and activity happening at the heart of these celestial objects.</description>
+    </item>
+    
+    <item>
+      <title>X-Ray Binary Research</title>
+      <link>https://hugo-profile.netlify.app/xray-binaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/xray-binaries/</guid>
+      <description>X-Ray Binary Systems An x-ray binary system is a type of binary star system that emits a significant amount of x-ray radiation. It consists of two main components: a compact object, such as a neutron star or a black hole, and a companion star, which is typically a normal star like our Sun or a more evolved star.
+During my research at Cal Poly Pomona, I studied the x-ray binary system called NGC 300 X-1, which has a highly evolved Wolf-Rayet star and a black hole.</description>
+    </item>
+    
+  </channel>
+</rss>
